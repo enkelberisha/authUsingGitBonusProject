@@ -39,7 +39,5 @@ It includes:
 - **JavaScript**
 - **GitHub OAuth Web Flow**
 
----
 
-## 📁 Project Structure
 
